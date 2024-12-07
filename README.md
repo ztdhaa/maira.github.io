@@ -1,2 +1,2 @@
-# hadiah
+# hadiah.github.io
 -
